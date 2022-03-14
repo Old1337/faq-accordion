@@ -97,6 +97,10 @@ a {
   font-weight: normal;
   transition: 1s;
 }
+.question-2:hover {
+  color: var(--Soft-red);
+  cursor: pointer;
+}
 
 .question-2.active {
   font-weight: bold;
